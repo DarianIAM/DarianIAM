@@ -1,16 +1,13 @@
-## Hi there 👋
+<h1>Hello, I'm Darian, a Cybersecurity, Information Assurance Professional and IAM Associate </a>☺</h1>
 
-<!--
-**DarianIAM/DarianIAM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>Identity and Access Management:</h2>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<b>Microsoft Azure Entra ID</b>
+   - [Creating Users in Entra ID]()
+   - [Cloud Provisioning - P2 Licensing]()
+   - [Role Assignments]()
+   - [Group Assignments]()
+   - [Identity Lifecycle]()
+   - [Audit Logs]()
+   - [Sign-In Logs]()
+   - [Authentication]()
