@@ -3,7 +3,7 @@
 <h2>Identity and Access Management:</h2>
 
 <b>Microsoft Azure Entra ID</b>
-   - [Creating Users in Entra ID]()
+   - [Creating Users in Entra ID](https://github.com/DarianIAM/user-accounts)
    - [Cloud Provisioning - P2 Licensing]()
    - [Role Assignments]()
    - [Group Assignments]()
