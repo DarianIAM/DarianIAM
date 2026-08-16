@@ -6,7 +6,7 @@
    - [Creating Users in Entra ID](https://github.com/DarianIAM/user-accounts)
    - [Cloud Provisioning - P2 Licensing](https://github.com/DarianIAM/p2-licensing)
    - [Role Assignments](https://github.com/DarianIAM/role-assignments-repository)
-   - [Group Assignments]()
+   - [Group Assignments](https://github.com/DarianIAM/group-assign/tree/main)
    - [Identity Lifecycle]()
    - [Audit Logs]()
    - [Sign-In Logs]()
