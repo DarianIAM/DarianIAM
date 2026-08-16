@@ -10,4 +10,4 @@
    - [Identity Lifecycle](https://github.com/DarianIAM/identity-lifecycle/blob/main/README.md)
    - [Audit Logs](https://github.com/DarianIAM/audit-logs/blob/main/README.md)
    - [Sign-In Logs](https://github.com/DarianIAM/sign-in-logs/blob/main/README.md)
-   - [Authentication]()
+   - [Authentication](https://github.com/DarianIAM/authentication/blob/main/README.md)
