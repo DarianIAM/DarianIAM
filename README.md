@@ -8,6 +8,6 @@
    - [Role Assignments](https://github.com/DarianIAM/role-assignments-repository)
    - [Group Assignments](https://github.com/DarianIAM/group-assign/tree/main)
    - [Identity Lifecycle](https://github.com/DarianIAM/identity-lifecycle/blob/main/README.md)
-   - [Audit Logs]()
+   - [Audit Logs](https://github.com/DarianIAM/audit-logs/blob/main/README.md)
    - [Sign-In Logs]()
    - [Authentication]()
