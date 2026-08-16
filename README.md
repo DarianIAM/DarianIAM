@@ -9,5 +9,5 @@
    - [Group Assignments](https://github.com/DarianIAM/group-assign/tree/main)
    - [Identity Lifecycle](https://github.com/DarianIAM/identity-lifecycle/blob/main/README.md)
    - [Audit Logs](https://github.com/DarianIAM/audit-logs/blob/main/README.md)
-   - [Sign-In Logs]()
+   - [Sign-In Logs](https://github.com/DarianIAM/sign-in-logs/blob/main/README.md)
    - [Authentication]()
